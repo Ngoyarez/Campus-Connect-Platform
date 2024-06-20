@@ -1,0 +1,14 @@
+body{ 
+    font: 14px sans-serif; 
+    text-align: center; 
+}
+.navbar-nav .nav-item .nav-link img {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.navbar-nav .nav-item .nav-link {
+    display: flex;
+    align-items: center;
+}
